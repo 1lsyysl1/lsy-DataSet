@@ -1,0 +1,41 @@
+text,classification
+Please download the statement for January 2023 AccountNumber 12345 type TTS,STATEMENT
+I need the statements for the period from February 2022 to March 2023 account type Loan AccountNumber 67890,STATEMENT
+Can you get the statement for April 2023 for account 12345 type Cash,STATEMENT
+Download the statements from May 2021 to June 2022 for AccountNumber 98765 account type TTS,STATEMENT
+Provide the statements for the last 12 months for AccountNumber 11111 type Loan,STATEMENT
+Can you give me the statements from July 2020 to December 2021 AccountNumber 22222 type Cash,STATEMENT
+I need the statements for the first quarter of 2023 account type TTS AccountNumber 33333,STATEMENT
+Please download the statements for the period from August 2022 to September 2023 for account 44444 type Loan,STATEMENT
+Get me the statements from October 2022 to present for account type Cash AccountNumber 55555,STATEMENT
+Download the statements for the entire year of 2021 for AccountNumber 66666 type TTS,STATEMENT
+Download my statement for December 2022 AccountNumber 77777 type Loan,STATEMENT
+I need statements from January 2021 to December 2021 for AccountNumber 88888 type Cash,STATEMENT
+Can you provide the statement for March 2023 for AccountNumber 99999 type TTS,STATEMENT
+Get the statements from February 2022 to January 2023 for AccountNumber 10101 type Loan,STATEMENT
+Please download statements from April 2022 to April 2023 for AccountNumber 20202 type Cash,STATEMENT
+I need the statements for May 2023 for AccountNumber 30303 type TTS,STATEMENT
+Provide statements for June 2021 to June 2022 for AccountNumber 40404 type Loan,STATEMENT
+Can you download statements from July 2020 to July 2021 for AccountNumber 50505 type Cash,STATEMENT
+I need the statement for August 2022 for AccountNumber 60606 type TTS,STATEMENT
+Download statements for September 2021 to September 2022 for AccountNumber 70707 type Loan,STATEMENT
+Please get the statement for January 2022 for AccountNumber 11111 type Cash,STATEMENT
+I need the statements from February 2021 to February 2022 for AccountNumber 22222 type TTS,STATEMENT
+Download statements for March 2020 to March 2021 for AccountNumber 33333 type Loan,STATEMENT
+Can you provide the statements from April 2023 for AccountNumber 44444 type Cash,STATEMENT
+Get the statements from May 2021 to May 2022 for AccountNumber 55555 type TTS,STATEMENT
+Please download statements from June 2022 to June 2023 for AccountNumber 66666 type Loan,STATEMENT
+I need the statements for July 2023 for AccountNumber 77777 type Cash,STATEMENT
+Provide statements for August 2021 to August 2022 for AccountNumber 88888 type TTS,STATEMENT
+Can you download statements from September 2020 to September 2021 for AccountNumber 99999 type Loan,STATEMENT
+I need the statement for October 2022 for AccountNumber 101010 type Cash,STATEMENT
+Please provide my statements,STATEMENT
+Can you get me the latest statement?,STATEMENT
+I need to download my transaction records,STATEMENT
+Please send me the current account summary,STATEMENT
+Can I get my financial report?,STATEMENT
+I want to review my recent transactions,STATEMENT
+Can you provide my account details?,STATEMENT
+Please send me the latest account summary,STATEMENT
+I need to access my financial information,STATEMENT
+Can you provide my account statement?,STATEMENT
