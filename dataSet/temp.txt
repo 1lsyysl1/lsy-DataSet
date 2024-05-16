@@ -373,26 +373,44 @@ I want to approve my wire transfer to William on 2024-07-11.,APPROVALS
 help me approve my transaction on 2024-07-12.,APPROVALS
 Can I approve my wire transfer to Liam on 2024-07-13?,APPROVALS
 I want to cancel the transaction to John.,PAYMENT
-Please help me stop the payment to Lisa.,PAYMENT
+help me stop the payment to Lisa.,PAYMENT
 Can I cancel the transfer to David?,PAYMENT
 I need to stop the wire transfer to Sarah.,PAYMENT
 Is it possible to cancel the payment to Michael?,PAYMENT
 Can you assist with stopping the transaction to Rachel?,PAYMENT
 I want to cancel the wire transfer to Steven.,PAYMENT
-Please help me stop the payment to Olivia.,PAYMENT
+help me stop the payment to Olivia.,PAYMENT
 Can I cancel the transfer to Benjamin?,PAYMENT
 I need to stop the wire transfer to Ava.,PAYMENT
 Is it possible to cancel the payment to Jack?,PAYMENT
 Can you assist with stopping the transaction to Charlotte?,PAYMENT
 I want to cancel the wire transfer to Samuel.,PAYMENT
-Please help me stop the payment to Grace.,PAYMENT
+help me stop the payment to Grace.,PAYMENT
 Can I cancel the transfer to Henry?,PAYMENT
 I need to stop the wire transfer to Evelyn.,PAYMENT
 Is it possible to cancel the payment to Noah?,PAYMENT
 Can you assist with stopping the transaction to Avery?,PAYMENT
 I want to cancel the wire transfer to Sofia.,PAYMENT
-Please help me stop the payment to Harper.,PAYMENT
-
-
-
-
+help me stop the payment to Harper.,PAYMENT
+How can I use the report builder tool?,REPORT_BUILDER
+assist me in generating a report.,REPORT_BUILDER
+How can I generate a report for account number 123456?,REPORT_BUILDER
+help me create a report for account number 987654 for the past month.,REPORT_BUILDER
+Can you assist me in viewing a report for account number 456789 from January to March?,REPORT_BUILDER
+I want to generate a report for account number 246810 for the last quarter.,REPORT_BUILDER
+guide me on how to create a report for account number 135792 for the year 2024.,REPORT_BUILDER
+I need assistance in viewing a report for account number 369258 for the current week.,REPORT_BUILDER
+Can you provide instructions on generating a report for account number 159263 for the past six months?,REPORT_BUILDER
+I'm having trouble creating a report for account number 789654 for the last year.,REPORT_BUILDER
+I want to know how to view a report for account number 369852 from May to July.,REPORT_BUILDER
+help me understand how to generate a report for account number 951357 for the current month.,REPORT_BUILDER
+Can you assist me in creating a report for account number 357951 for the past week?,REPORT_BUILDER
+I need guidance on viewing a report for account number 258741 for the past three months.,REPORT_BUILDER
+Is it possible to get support for generating a report for account number 654321 for the last two weeks?,REPORT_BUILDER
+I want to know more about creating a report for account number 852963 for the past year.,REPORT_BUILDER
+provide training on viewing a report for account number 147258 for the current quarter.,REPORT_BUILDER
+Can I receive assistance with generating a report for account number 654789 for the past month?,REPORT_BUILDER
+I need help navigating the process of creating a report for account number 369147 for the current year.,REPORT_BUILDER
+I'm looking for tutorials on how to view a report for account number 789123 for the past six months.,REPORT_BUILDER
+Can you guide me through the process of generating a report for account number 258369 for the past week?,REPORT_BUILDER
+I want to master the process of creating a report for account number 159357 for the current month.,REPORT_BUILDER
