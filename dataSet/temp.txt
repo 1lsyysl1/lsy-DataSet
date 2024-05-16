@@ -1,41 +1,398 @@
 text,classification
-Please download the statement for January 2023 AccountNumber 12345 type TTS,STATEMENT
-I need the statements for the period from February 2022 to March 2023 account type Loan AccountNumber 67890,STATEMENT
-Can you get the statement for April 2023 for account 12345 type Cash,STATEMENT
-Download the statements from May 2021 to June 2022 for AccountNumber 98765 account type TTS,STATEMENT
-Provide the statements for the last 12 months for AccountNumber 11111 type Loan,STATEMENT
-Can you give me the statements from July 2020 to December 2021 AccountNumber 22222 type Cash,STATEMENT
-I need the statements for the first quarter of 2023 account type TTS AccountNumber 33333,STATEMENT
-Please download the statements for the period from August 2022 to September 2023 for account 44444 type Loan,STATEMENT
-Get me the statements from October 2022 to present for account type Cash AccountNumber 55555,STATEMENT
-Download the statements for the entire year of 2021 for AccountNumber 66666 type TTS,STATEMENT
-Download my statement for December 2022 AccountNumber 77777 type Loan,STATEMENT
-I need statements from January 2021 to December 2021 for AccountNumber 88888 type Cash,STATEMENT
-Can you provide the statement for March 2023 for AccountNumber 99999 type TTS,STATEMENT
-Get the statements from February 2022 to January 2023 for AccountNumber 10101 type Loan,STATEMENT
-Please download statements from April 2022 to April 2023 for AccountNumber 20202 type Cash,STATEMENT
-I need the statements for May 2023 for AccountNumber 30303 type TTS,STATEMENT
-Provide statements for June 2021 to June 2022 for AccountNumber 40404 type Loan,STATEMENT
-Can you download statements from July 2020 to July 2021 for AccountNumber 50505 type Cash,STATEMENT
-I need the statement for August 2022 for AccountNumber 60606 type TTS,STATEMENT
-Download statements for September 2021 to September 2022 for AccountNumber 70707 type Loan,STATEMENT
-Please get the statement for January 2022 for AccountNumber 11111 type Cash,STATEMENT
-I need the statements from February 2021 to February 2022 for AccountNumber 22222 type TTS,STATEMENT
-Download statements for March 2020 to March 2021 for AccountNumber 33333 type Loan,STATEMENT
-Can you provide the statements from April 2023 for AccountNumber 44444 type Cash,STATEMENT
-Get the statements from May 2021 to May 2022 for AccountNumber 55555 type TTS,STATEMENT
-Please download statements from June 2022 to June 2023 for AccountNumber 66666 type Loan,STATEMENT
-I need the statements for July 2023 for AccountNumber 77777 type Cash,STATEMENT
-Provide statements for August 2021 to August 2022 for AccountNumber 88888 type TTS,STATEMENT
-Can you download statements from September 2020 to September 2021 for AccountNumber 99999 type Loan,STATEMENT
-I need the statement for October 2022 for AccountNumber 101010 type Cash,STATEMENT
-Please provide my statements,STATEMENT
-Can you get me the latest statement?,STATEMENT
-I need to download my transaction records,STATEMENT
-Please send me the current account summary,STATEMENT
-Can I get my financial report?,STATEMENT
-I want to review my recent transactions,STATEMENT
-Can you provide my account details?,STATEMENT
-Please send me the latest account summary,STATEMENT
-I need to access my financial information,STATEMENT
-Can you provide my account statement?,STATEMENT
+Request loan details,LOANS
+Request loan details for Account Number 123456,LOANS
+Update loan pricing for Account Number 789012,LOANS
+Apply for a loan,LOANS
+Print loan statement for Account Number 345678,LOANS
+Inquire loan balance for Account Number 901234,LOANS
+Repay existing loan,LOANS
+Retrieve loan information for Account Number 234567,LOANS
+Adjust loan terms for Account Number 890123,LOANS
+Seek loan approval,LOANS
+Obtain loan statement for Account Number 456789,LOANS
+Check available funds for Account Number 012345,LOANS
+Settle outstanding loan amount,LOANS
+Access loan details for Account Number 901234,LOANS
+Initiate loan application,LOANS
+Print loan history for Account Number 567890,LOANS
+Verify loan balance for Account Number 234567,LOANS
+Reimburse loan principal,LOANS
+Review loan terms for Account Number 456789,LOANS
+Update loan terms for Account Number 012345,LOANS
+Submit loan application,LOANS
+Print loan summary for Account Number 678901,LOANS
+Retrieve loan status for Account Number 890123,LOANS
+Review loan application for Account Number 567890,LOANS
+Authorize loan modification for Account Number 234567,LOANS
+Initiate loan approval process,LOANS
+Request loan documentation for Account Number 901234,LOANS
+Verify loan eligibility for Account Number 345678,LOANS
+Adjust loan repayment schedule for Account Number 901234,LOANS
+Issue loan approval for Account Number 123456,LOANS
+Generate loan agreement for Account Number 789012,LOANS
+Finalize loan terms for Account Number 345678,LOANS
+Print loan amortization schedule for Account Number 567890,LOANS
+Check loan application status for Account Number 678901,LOANS
+Reallocate loan funds for Account Number 890123,LOANS
+Update loan maturity date for Account Number 012345,LOANS
+Initiate loan disbursement for Account Number 234567,LOANS
+Process loan prepayment for Account Number 456789,LOANS
+Review loan agreement for Account Number 567890,LOANS
+Authorize loan disbursement for Account Number 789012,LOANS
+Update loan status for Account Number 901234,LOANS
+Retrieve loan repayment history for Account Number 123456,LOANS
+View loan details for Account Number 123456,LOANS
+Modify loan pricing for Account Number 789012,LOANS
+Apply for a new loan,LOANS
+Print loan statement for Account Number 345678,LOANS
+Check loan balance for Account Number 901234,LOANS
+Repay loan for Account Number 567890,LOANS
+View loan information for Account Number 234567,LOANS
+Modify loan pricing for Account Number 890123,LOANS
+Apply for a loan,LOANS
+Can I review my loan details?,LOANS
+adjust the pricing for my loan.,LOANS
+I need to print my loan bill.,LOANS
+What's my current loan balance?,LOANS
+Can you help me with my loan repayment?,LOANS
+I want to check my loan information.,LOANS
+provide my loan statement.,LOANS
+How can I modify my loan pricing?,LOANS
+send me my loan balance.,LOANS
+Can I repay my loan now?,LOANS
+Can I adjust the pricing for my loan?,LOANS
+I need to print my loan bill.,LOANS
+Can you provide my loan statement?,LOANS
+What's my current loan balance?,LOANS
+Can you assist with my loan repayment?,LOANS
+I want to check my loan status.,LOANS
+provide my loan details.,LOANS
+How can I change my loan pricing?,LOANS
+send me my loan balance.,LOANS
+Can I repay my loan today?,LOANS
+Can you provide my loan details?,LOANS
+I need to print my loan summary.,LOANS
+Can you provide my loan statement?,LOANS
+What's my current loan balance?,LOANS
+Can you help me pay off my loan?,LOANS
+I want to view my loan details.,LOANS
+provide my loan statement.,LOANS
+How can I update my loan pricing?,LOANS
+send me my loan balance.,LOANS
+Can I make a loan repayment now?,LOANS
+Can you provide my loan details?,LOANS
+I need to print my loan bill.,LOANS
+Can you provide my loan statement?,LOANS
+What's my current loan balance?,LOANS
+Can you help me with my loan repayment?,LOANS
+I want to check my loan information.,LOANS
+provide my loan statement.,LOANS
+How can I modify my loan pricing?,LOANS
+send me my loan balance.,LOANS
+Can I repay my loan now?,LOANS
+I can review my loan details.,LOANS
+I can adjust the pricing for my loan.,LOANS
+I need to print my loan bill.,LOANS
+My current loan balance is needed.,LOANS
+I need help with my loan repayment.,LOANS
+I want to check my loan information.,LOANS
+My loan statement is required.,LOANS
+I need to modify my loan pricing.,LOANS
+My loan balance should be sent.,LOANS
+I can repay my loan now.,LOANS
+I can adjust the pricing for my loan.,LOANS
+I need to print my loan bill.,LOANS
+My current loan balance is required.,LOANS
+help me with my loan repayment.,LOANS
+I want to check my loan information.,LOANS
+My loan statement is required.,LOANS
+I need to modify my loan pricing.,LOANS
+My loan balance should be sent.,LOANS
+I can repay my loan now.,LOANS
+I can adjust the pricing for my loan.,LOANS
+I need to print my loan bill.,LOANS
+My current loan balance is required.,LOANS
+help me with my loan repayment.,LOANS
+I want to check my loan information.,LOANS
+My loan statement is required.,LOANS
+I need to modify my loan pricing.,LOANS
+My loan balance should be sent.,LOANS
+I can repay my loan now.,LOANS
+I can adjust the pricing for my loan.,LOANS
+I need to print my loan bill.,LOANS
+My current loan balance is required.,LOANS
+help me with my loan repayment.,LOANS
+I want to check my loan information.,LOANS
+My loan statement is required.,LOANS
+I need to modify my loan pricing.,LOANS
+My loan balance should be sent.,LOANS
+I can repay my loan now.,LOANS
+I want to transfer money to John.,PAYMENT
+Can I make a payment to Lisa?,PAYMENT
+help me with a transaction.,PAYMENT
+How can I send money to David?,PAYMENT
+I need to process a payment.,PAYMENT
+Is it possible to transfer funds to Sarah?,PAYMENT
+assist me with a transfer.,PAYMENT
+Can I send money to Michael?,PAYMENT
+I would like to make a payment.,PAYMENT
+How do I transfer money to Emily?,PAYMENT
+Can I make a payment to Kevin?,PAYMENT
+help me with a transaction.,PAYMENT
+How can I send money to Rachel?,PAYMENT
+I need to process a payment.,PAYMENT
+Is it possible to transfer funds to Steven?,PAYMENT
+assist me with a transfer.,PAYMENT
+Can I send money to Olivia?,PAYMENT
+I would like to make a payment.,PAYMENT
+How do I transfer money to Daniel?,PAYMENT
+Can I make a payment to Emma?,PAYMENT
+help me with a transaction.,PAYMENT
+How can I send money to Matthew?,PAYMENT
+I need to process a payment.,PAYMENT
+Is it possible to transfer funds to Chloe?,PAYMENT
+assist me with a transfer.,PAYMENT
+Can I send money to Benjamin?,PAYMENT
+I would like to make a payment.,PAYMENT
+How do I transfer money to Ava?,PAYMENT
+Can I make a payment to Ethan?,PAYMENT
+help me with a transaction.,PAYMENT
+How can I send money to Mia?,PAYMENT
+I need to process a payment.,PAYMENT
+Is it possible to transfer funds to Jacob?,PAYMENT
+assist me with a transfer.,PAYMENT
+Can I send money to Harper?,PAYMENT
+I would like to make a payment.,PAYMENT
+How do I transfer money to Sophia?,PAYMENT
+Can I make a payment to Logan?,PAYMENT
+help me with a transaction.,PAYMENT
+How can I send money to Abigail?,PAYMENT
+I need to process a payment.,PAYMENT
+Is it possible to transfer funds to Jackson?,PAYMENT
+assist me with a transfer.,PAYMENT
+Can I send money to Madison?,PAYMENT
+I would like to make a payment.,PAYMENT
+How do I transfer money to Lily?,PAYMENT
+Can I make a payment to Aiden?,PAYMENT
+help me with a transaction.,PAYMENT
+How can I send money to Lucas?,PAYMENT
+I need to process a payment.,PAYMENT
+Is it possible to transfer funds to Amelia?,PAYMENT
+assist me with a transfer.,PAYMENT
+Can I send money to Owen?,PAYMENT
+I would like to make a payment.,PAYMENT
+How do I transfer money to Elizabeth?,PAYMENT
+Can I make a payment to Jack?,PAYMENT
+help me with a transaction.,PAYMENT
+How can I send money to Charlotte?,PAYMENT
+I need to process a payment.,PAYMENT
+Is it possible to transfer funds to Samuel?,PAYMENT
+assist me with a transfer.,PAYMENT
+Can I send money to Grace?,PAYMENT
+I would like to make a payment.,PAYMENT
+How do I transfer money to Henry?,PAYMENT
+Can I make a payment to Harper?,PAYMENT
+help me with a transaction.,PAYMENT
+How can I send money to Evelyn?,PAYMENT
+I need to process a payment.,PAYMENT
+Is it possible to transfer funds to Noah?,PAYMENT
+assist me with a transfer.,PAYMENT
+Can I send money to Avery?,PAYMENT
+I would like to make a payment.,PAYMENT
+How do I transfer money to Sofia?,PAYMENT
+Can I make a payment to Elijah?,PAYMENT
+help me with a transaction.,PAYMENT
+How can I send money to Mia?,PAYMENT
+I need to process a payment.,PAYMENT
+Is it possible to transfer funds to Oliver?,PAYMENT
+assist me with a transfer.,PAYMENT
+Can I send money to Amelia?,PAYMENT
+I would like to make a payment.,PAYMENT
+How do I transfer money to Ethan?,PAYMENT
+Can I make a payment to Isabella?,PAYMENT
+help me with a transaction.,PAYMENT
+How can I send money to William?,PAYMENT
+I need to process a payment.,PAYMENT
+Is it possible to transfer funds to Ava?,PAYMENT
+assist me with a transfer.,PAYMENT
+Can I send money to Liam?,PAYMENT
+I would like to make a payment.,PAYMENT
+How do I transfer money to Mia?,PAYMENT
+Can I make a payment to Benjamin?,PAYMENT
+help me with a transaction.,PAYMENT
+How can I send money to Emma?,PAYMENT
+I need to process a payment.,PAYMENT
+Is it possible to transfer funds to James?,PAYMENT
+assist me with a transfer.,PAYMENT
+Can I send money to Sophia?,PAYMENT
+I would like to make a payment.,PAYMENT
+How do I transfer money to Alexander?,PAYMENT
+Can I make a payment to Harper?,PAYMENT
+help me with a transaction.,PAYMENT
+How can I send money to Emily?,PAYMENT
+I need to process a payment.,PAYMENT
+Is it possible to transfer funds to Jacob?,PAYMENT
+assist me with a transfer.,PAYMENT
+Can I send money to Grace?,PAYMENT
+I would like to make a payment.,PAYMENT
+How do I transfer money to Mia?,PAYMENT
+Can I make a payment to Oliver?,PAYMENT
+help me with a transaction.,PAYMENT
+How can I send money to Ava?,PAYMENT
+I need to process a payment.,PAYMENT
+Is it possible to transfer funds to William?,PAYMENT
+assist me with a transfer.,PAYMENT
+Can I send money to Isabella?,PAYMENT
+I would like to make a payment.,PAYMENT
+How do I transfer money to Liam?,PAYMENT
+Can I make a payment to Mia?,PAYMENT
+help me with a transaction.,PAYMENT
+How can I send money to Benjamin?,PAYMENT
+I need to process a payment.,PAYMENT
+Is it possible to transfer funds to Emma?,PAYMENT
+assist me with a transfer.,PAYMENT
+Can I send money to James?,PAYMENT
+I would like to make a payment.,PAYMENT
+How do I transfer money to Sophia?,PAYMENT
+Can I make a payment to Alexander?,PAYMENT
+help me with a transaction.,PAYMENT
+How can I send money to Harper?,PAYMENT
+I need to process a payment.,PAYMENT
+I wan to approve my transaction.,APPROVALS
+approve my wire to account number 123456 on 2024-06-10.,APPROVALS
+I need to approve my transaction for tomorrow.,APPROVALS
+Is it possible to approve my wire transfer on 2024-05-25?,APPROVALS
+Can you assist with approving my transaction on 2024-05-15?,APPROVALS
+I want to approve my wire transfer to account number 987654 on 2024-05-18.,APPROVALS
+help me approve my transaction for next week.,APPROVALS
+Can I approve my wire transfer on 2024-05-30?,APPROVALS
+I need to approve my transaction on 2024-05-22.,APPROVALS
+Can you help approve my wire transfer to account number 456789 on 2024-05-28?,APPROVALS
+assist with approving my transaction on 2024-05-24.,APPROVALS
+I want to approve my wire transfer for the day after tomorrow.,APPROVALS
+approve my transaction on 2024-05-19.,APPROVALS
+I need to approve my wire transfer to account number 135792 on 2024-06-01.,APPROVALS
+Is it possible to approve my transaction on 2024-05-17?,APPROVALS
+Can you assist with approving my wire transfer on 2024-05-26?,APPROVALS
+I want to approve my transaction for next month.,APPROVALS
+help me approve my wire transfer to account number 246810 on 2024-05-23.,APPROVALS
+Can I approve my transaction on 2024-05-21?,APPROVALS
+I need to approve my wire transfer for next week.,APPROVALS
+Can you help approve my transaction on 2024-05-16?,APPROVALS
+assist with approving my wire transfer to account number 369258 on 2024-06-02.,APPROVALS
+I want to approve my transaction on 2024-05-29.,APPROVALS
+approve my wire transfer on 2024-05-31.,APPROVALS
+I need to approve my transaction on 2024-05-27.,APPROVALS
+Can you assist with approving my wire transfer to account number 579321 on 2024-06-03?,APPROVALS
+I want to approve my transaction for tomorrow.,APPROVALS
+help me approve my wire transfer on 2024-06-04.,APPROVALS
+Can I approve my transaction on 2024-06-05?,APPROVALS
+I need to approve my wire transfer to account number 147258 on 2024-06-06.,APPROVALS
+Can you assist with approving my transaction on 2024-06-07?,APPROVALS
+approve my wire transfer on 2024-06-08.,APPROVALS
+I want to approve my transaction on 2024-06-09.,APPROVALS
+help me approve my wire transfer to account number 654321 on 2024-06-11.,APPROVALS
+Can I approve my transaction on 2024-06-12?,APPROVALS
+I need to approve my wire transfer for next month.,APPROVALS
+Can you assist with approving my transaction on 2024-06-13?,APPROVALS
+approve my wire transfer on 2024-06-14.,APPROVALS
+I want to approve my transaction on 2024-06-15.,APPROVALS
+help me approve my wire transfer on 2024-06-16.,APPROVALS
+Can I approve my transaction on 2024-06-17?,APPROVALS
+I need to approve my wire transfer to account number 963852 on 2024-06-18.,APPROVALS
+Can you assist with approving my transaction on 2024-06-19?,APPROVALS
+approve my wire transfer on 2024-06-20.,APPROVALS
+I want to approve my transaction on 2024-06-21.,APPROVALS
+help me approve my wire transfer to account number 789654 on 2024-06-22.,APPROVALS
+Can I approve my transaction on 2024-06-23?,APPROVALS
+I need to approve my wire transfer for next month.,APPROVALS
+Can you assist with approving my transaction on 2024-06-24?,APPROVALS
+approve my wire transfer on 2024-06-25.,APPROVALS
+I want to approve my transaction on 2024-06-26.,APPROVALS
+help me approve my wire transfer on 2024-06-27.,APPROVALS
+Can I approve my transaction on 2024-06-28?,APPROVALS
+I need to approve my wire transfer to account number 159263 on 2024-06-29.,APPROVALS
+Can you assist with approving my transaction on 2024-06-30?,APPROVALS
+approve my wire transfer on 2024-07-01.,APPROVALS
+I want to approve my transfer to John on 2024-05-20.,APPROVALS
+help me approve my wire transfer to Lisa on 2024-06-10.,APPROVALS
+Can I approve my transaction for tomorrow?,APPROVALS
+I need to approve my wire transfer to David on 2024-05-25.,APPROVALS
+Is it possible to approve my transfer to Sarah on 2024-05-15?,APPROVALS
+Can you assist with approving my wire transfer to Michael on 2024-05-18?,APPROVALS
+I want to approve my transaction for next week.,APPROVALS
+help me approve my wire transfer to Rachel on 2024-05-30.,APPROVALS
+Can I approve my transfer to Steven on 2024-05-22?,APPROVALS
+I need to approve my wire transfer to Olivia on 2024-05-28.,APPROVALS
+Is it possible to approve my transaction on 2024-05-24?,APPROVALS
+Can you assist with approving my wire transfer to Benjamin on 2024-05-18?,APPROVALS
+approve my transaction for next month.,APPROVALS
+I want to approve my wire transfer to Ava on 2024-06-01.,APPROVALS
+help me approve my transaction on 2024-05-26.,APPROVALS
+Can I approve my wire transfer to William on 2024-06-02?,APPROVALS
+I need to approve my transaction on 2024-05-27.,APPROVALS
+Is it possible to approve my wire transfer to Mia on 2024-06-03?,APPROVALS
+Can you assist with approving my transaction on 2024-06-04?,APPROVALS
+approve my wire transfer to Oliver on 2024-06-05.,APPROVALS
+I want to approve my transaction on 2024-06-06.,APPROVALS
+help me approve my wire transfer to Amelia on 2024-06-07.,APPROVALS
+Can I approve my transaction on 2024-06-08?,APPROVALS
+I need to approve my wire transfer to Ethan on 2024-06-09.,APPROVALS
+Is it possible to approve my transaction on 2024-06-10?,APPROVALS
+Can you assist with approving my wire transfer to Isabella on 2024-06-11?,APPROVALS
+approve my transaction on 2024-06-12.,APPROVALS
+I want to approve my wire transfer to William on 2024-06-13.,APPROVALS
+help me approve my transaction on 2024-06-14.,APPROVALS
+Can I approve my wire transfer to Liam on 2024-06-15?,APPROVALS
+I need to approve my transaction on 2024-06-16.,APPROVALS
+Is it possible to approve my wire transfer to Mia on 2024-06-17?,APPROVALS
+Can you assist with approving my transaction on 2024-06-18?,APPROVALS
+approve my wire transfer to Oliver on 2024-06-19.,APPROVALS
+I want to approve my transaction on 2024-06-20.,APPROVALS
+help me approve my wire transfer to Amelia on 2024-06-21.,APPROVALS
+Can I approve my transaction on 2024-06-22?,APPROVALS
+I need to approve my wire transfer to Ethan on 2024-06-23.,APPROVALS
+Is it possible to approve my transaction on 2024-06-24?,APPROVALS
+Can you assist with approving my wire transfer to Isabella on 2024-06-25?,APPROVALS
+approve my transaction on 2024-06-26.,APPROVALS
+I want to approve my wire transfer to William on 2024-06-27.,APPROVALS
+help me approve my transaction on 2024-06-28.,APPROVALS
+Can I approve my wire transfer to Liam on 2024-06-29?,APPROVALS
+I need to approve my transaction on 2024-06-30.,APPROVALS
+Is it possible to approve my wire transfer to Mia on 2024-07-01?,APPROVALS
+Can you assist with approving my transaction on 2024-07-02?,APPROVALS
+approve my wire transfer to Oliver on 2024-07-03.,APPROVALS
+I want to approve my transaction on 2024-07-04.,APPROVALS
+help me approve my wire transfer to Amelia on 2024-07-05.,APPROVALS
+Can I approve my transaction on 2024-07-06?,APPROVALS
+I need to approve my wire transfer to Ethan on 2024-07-07.,APPROVALS
+Is it possible to approve my transaction on 2024-07-08?,APPROVALS
+Can you assist with approving my wire transfer to Isabella on 2024-07-09?,APPROVALS
+approve my transaction on 2024-07-10.,APPROVALS
+I want to approve my wire transfer to William on 2024-07-11.,APPROVALS
+help me approve my transaction on 2024-07-12.,APPROVALS
+Can I approve my wire transfer to Liam on 2024-07-13?,APPROVALS
+I want to cancel the transaction to John.,PAYMENT
+Please help me stop the payment to Lisa.,PAYMENT
+Can I cancel the transfer to David?,PAYMENT
+I need to stop the wire transfer to Sarah.,PAYMENT
+Is it possible to cancel the payment to Michael?,PAYMENT
+Can you assist with stopping the transaction to Rachel?,PAYMENT
+I want to cancel the wire transfer to Steven.,PAYMENT
+Please help me stop the payment to Olivia.,PAYMENT
+Can I cancel the transfer to Benjamin?,PAYMENT
+I need to stop the wire transfer to Ava.,PAYMENT
+Is it possible to cancel the payment to Jack?,PAYMENT
+Can you assist with stopping the transaction to Charlotte?,PAYMENT
+I want to cancel the wire transfer to Samuel.,PAYMENT
+Please help me stop the payment to Grace.,PAYMENT
+Can I cancel the transfer to Henry?,PAYMENT
+I need to stop the wire transfer to Evelyn.,PAYMENT
+Is it possible to cancel the payment to Noah?,PAYMENT
+Can you assist with stopping the transaction to Avery?,PAYMENT
+I want to cancel the wire transfer to Sofia.,PAYMENT
+Please help me stop the payment to Harper.,PAYMENT
+
+
+
+
